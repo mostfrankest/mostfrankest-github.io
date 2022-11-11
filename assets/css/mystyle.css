@@ -3,3 +3,11 @@
     font-size: 13px;
     color: #ceacac;
   }
+
+  .ml-2, .mx-2 {
+    margin-left: 0.8rem !important;
+}
+
+p .mai-mail, p .mai-call, p .mai-home{
+  margin-right: 0.2rem;
+}
